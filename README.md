@@ -1,1 +1,1 @@
-# basick-portfolio
+# basic-portfolio
